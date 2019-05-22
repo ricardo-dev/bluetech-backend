@@ -62,7 +62,7 @@ Votação:
 
 	listar todos os dados de votacao
 	http://baseUrl/imovel/dados-geral-votos/    metodo = GET
-	retorno - [ {nomeImovel, totalVotosImovel, nomeUsuario, totaoVotos}, ..., {...} ]
+	retorno - [ {nomeImovel, totalVotosImovel, nomeUsuario, totalVotos}, ..., {...} ]
 
 # Como executar
 
