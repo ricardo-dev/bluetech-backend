@@ -67,4 +67,6 @@ Votação:
 # Como executar
 
 Download do projeto
-Abrir spring boot -> import -> maven project -> configurar o banco de dados mysql no application.properties -> run as-> spring boot App 
+Abrir spring boot -> import -> maven project -> configurar o banco de dados mysql no application.properties (url, user, password)-> run as-> spring boot App 
+
+Recomendado utilizar postman para simular o consumo e cadastrar os imóveis com as sequintes URL's respectivas
